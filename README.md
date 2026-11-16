@@ -1,6 +1,6 @@
 # Jesús R. L. González
 
-**Ciencia de datos para calidad y manufactura.** Estudios en Ingeniería Industrial y Administración (UTEL), formación dual alemana (IHK Regensburg, en planta con ISO 9001) y curso de Auditor Líder ISO 9001:2015 certificado por CQI-IRCA, aprobado. Traduzco scrap, alertas de falla y defectos a decisiones con costo, y digo cuándo los datos **no** alcanzan para desplegar un modelo.
+**Ciencia de datos para calidad y manufactura.** Ingeniero industrial (Licenciatura en Ingeniería Industrial y Administración, UTEL), con formación dual alemana (IHK Regensburg, en planta con ISO 9001) y curso y examen de Auditor Líder ISO 9001:2015 aprobados (curso certificado por CQI-IRCA, LRQA México 2026). Traduzco scrap, alertas de falla y defectos a decisiones con costo, y digo cuándo los datos **no** alcanzan para desplegar un modelo.
 
 📍 Tlaxcala–Puebla, México · 🗣️ Español nativo · Alemán profesional · Inglés A2 en formación
 🔗 [LinkedIn](https://www.linkedin.com/in/jesus-r-l-gonzalez) · [Portafolio con demos](https://huggingface.co/spaces/JesusRLGonzalez/jesus-rl-gonzalez)
